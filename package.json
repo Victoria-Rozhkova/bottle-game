@@ -1,0 +1,14 @@
+{
+  "name": "bottle-game",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "author": "Victoria-Rozhkova",
+  "license": "ISC",
+  "homepage": "https://Victoria-Rozhkova.github.io/bottle-game",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
